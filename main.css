@@ -4,5 +4,9 @@ h1{
 
 }
 body{
-    background-color: rgb(194, 160, 160);
+    background-color: rgba(194, 160, 160,0.5);
+    
+}
+p{
+    color:blue;
 }
