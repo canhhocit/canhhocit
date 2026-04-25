@@ -34,6 +34,7 @@
 Learning Spring Boot deeply
 Building real backend projects
 Preparing for internship
+Improving problem solving
 Growing into a professional Backend Engineer
 ```
 
@@ -58,10 +59,3 @@ Growing into a professional Backend Engineer
 
 ---
 
-## 💡 Current Focus
-
-```java
-Learning Spring Boot deeply
-Building real backend projects
-Preparing for internship
-Improving problem solving
