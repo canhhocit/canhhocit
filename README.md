@@ -19,22 +19,22 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 3rd year student focusing on Backend Java  
-* ☕ Building systems with Java / Spring Boot  
-* 🛢️ Working with MySQL / SQL Server  
-* 🔗 Interested in REST APIs / Security / Clean Architecture  
-* 🐳 Currently learning Docker & Deployment  
-* 🎯 Goal: Become a strong Backend Engineer and build scalable systems  
+* 🎓 3rd year student focusing on Backend Java
+* ☕ Building systems with Java / Spring Boot
+* 🛢️ Working with MySQL / SQL Server
+* 🔗 Interested in REST APIs / Security / Clean Architecture
+* 🐳 Currently learning Docker & Deployment
+* 🎯 Goal: Become a strong Backend Engineer and build scalable systems
 
 ---
 
 ## 💡 Current Focus
 
-* Learning Spring Boot deeply  
-* Building real backend projects  
-* Preparing for internship  
-* Improving problem solving  
-* Growing into a professional Backend Engineer  
+* Learning Spring Boot deeply
+* Building real backend projects
+* Preparing for internship
+* Improving problem solving
+* Growing into a professional Backend Engineer
 
 ---
 
@@ -53,19 +53,15 @@
   <img width="49%" src="https://streak-stats.demolab.com?user=canhhocit&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
----
-
-## 📈 Most Used Languages
-
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhhocit&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=00C2FF&text_color=ffffff"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhhocit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-* Ecommerce Backend API (Spring Boot, JWT, MySQL)  
-* Task Management System  
-* Authentication & Authorization Service  
-* RESTful Booking API  
+* Ecommerce Backend API (Spring Boot, JWT, MySQL)
+* Task Management System
+* Authentication & Authorization Service
+* RESTful Booking API
