@@ -46,16 +46,16 @@
 
 ---
 
+
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=canhhocit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=canhhocit&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img width="42%" src="https://github-readme-streak-stats-eight.vercel.app?user=canhhocit&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhhocit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
+ <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhhocit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 </p>
+
 
 ---
 
