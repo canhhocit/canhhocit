@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Canh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Java+Intern;Spring+Boot+Developer;Building+RESTful+APIs;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Backend+Developer+Intern;Future+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Node.js;Building+RESTful+APIs;Always+Learning+New+Things" />
 </p>
 
-<h3 align="center">💻 Java Backend Developer in Progress</h3>
+<h3 align="center">
+🚀 Backend Developer Intern → Future Full Stack Developer
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/c%E1%BA%A3nh-ph%E1%BA%A1m-bb67ab3a7/">
@@ -17,51 +19,44 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-* 🎓 3rd year student focusing on Backend Java
-* ☕ Building systems with Java / Spring Boot
-* 🛢️ Working with MySQL / SQL Server
-* 🔗 Interested in REST APIs / Security / Clean Architecture
-* 🐳 Currently learning Docker & Deployment
-* 🎯 Goal: Become a strong Backend Engineer and build scalable systems
-
----
-
-## 💡 Current Focus
-
-* Learning Spring Boot deeply
-* Building real backend projects
-* Preparing for internship
-* Improving problem solving
-* Growing into a professional Backend Engineer
+- 🎓 Final-year Information Technology student
+- 💼 Seeking a **Backend Developer Internship**
+- ☕ Building backend applications with **Java (Spring Boot)** and **Node.js**
+- 💳 Hands-on experience integrating PayOS Payment Gateway for automated payment processing
+- 🌐 Learning frontend development with **React**, **TypeScript**, and **Tailwind CSS**
+- 🗄️ Working with **MySQL**, **SQL Server**, and **PostgreSQL**
+- 🔐 Interested in **REST APIs**, **Authentication**, **Authorization**, **System Design**, and **Clean Architecture**
+- 🐳 Learning **Docker**, **Deployment**, and **CI/CD**
+- 🌱 Expanding my skills toward becoming a **Full Stack Developer**
 
 ---
 
-## 🛠 Tech Stack
+# 💡 Current Focus
+
+- Deepening Spring Boot knowledge
+- Learning Node.js & Express.js
+- Improving React + TypeScript + Tailwind CSS
+- Building production-style backend projects
+- Preparing for Backend Internship
+- Growing into a Full Stack Developer
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,c,spring,mysql,docker,git,github,postman,idea,vscode,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,ts,tailwind,mysql,postgres,docker,git,github,postman,idea,vscode,html,css,js" />
 </p>
 
 ---
 
+# 🚀 Featured Projects
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="42%" src="https://github-readme-streak-stats-eight.vercel.app?user=canhhocit&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
+- 🔐 Authentication & Authorization Service (JWT, Role-Based Access Control)
+- 🔑 API Key & HMAC-SHA256 Authentication for Inter-System APIs 
+- 💳 PayOS Payment Integration for Automated Payment Processing
+- 🛒 Ecommerce Backend API (Spring Boot, JWT, MySQL)
+- 📅 RESTful Booking API
 
-<p align="center">
- <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canhhocit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
-</p>
-
-
----
-
-## 🚀 Featured Projects
-
-* Ecommerce Backend API (Spring Boot, JWT, MySQL)
-* Task Management System
-* Authentication & Authorization Service
-* RESTful Booking API
