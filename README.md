@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-🚀 Java Backend Developer | Spring Boot & AI-Powered Applications
+🚀 Java Backend/FullStack Developer
 </h3>
 
 <p align="center">
